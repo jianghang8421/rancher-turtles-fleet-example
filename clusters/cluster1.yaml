@@ -21,7 +21,7 @@ apiVersion: controlplane.cluster.x-k8s.io/v1beta2
 metadata:
   name: "cluster1-control-plane"
 spec:
-  region: "eu-west-2"
+  region: "us-east-2"
   version: "v1.28"
 ---
 apiVersion: cluster.x-k8s.io/v1beta1
